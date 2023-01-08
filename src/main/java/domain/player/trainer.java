@@ -22,7 +22,7 @@ public class trainer {
         return name;
     }
 
-    public Pokemon choosePokemon(String name) {
+   /* public Pokemon choosePokemon(String name) {
 
         Electric pokemonElectric = new Electric((ElectricPokemons.randomElectricPokemon()).name());
         Fire pokemonFire = new Fire((FirePokemons.randomFirePokemon()).name());
@@ -47,10 +47,8 @@ public class trainer {
 
         return pokemon;
     }
+*/
 
-    public chooseAttack(Pokemon pokemon){
-
-    }
 
 }
 

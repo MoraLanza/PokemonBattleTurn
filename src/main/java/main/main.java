@@ -1,7 +1,6 @@
-package domain.main;
+package main;
 
 import domain.player.*;
-import domain.pokemon.pokemonEnum.ElectricPokemons;
 import gameLogic.battle;
 
 import java.util.Objects;

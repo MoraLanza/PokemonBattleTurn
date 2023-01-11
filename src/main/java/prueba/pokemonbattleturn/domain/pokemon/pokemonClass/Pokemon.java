@@ -1,5 +1,5 @@
-package com.pokemonbattleturn.domain.pokemon.pokemonClass;
-import com.pokemonbattleturn.domain.pokemon.moves.Move;
+package prueba.pokemonbattleturn.domain.pokemon.pokemonClass;
+import prueba.pokemonbattleturn.domain.pokemon.moves.Move;
 
 import java.util.List;
 

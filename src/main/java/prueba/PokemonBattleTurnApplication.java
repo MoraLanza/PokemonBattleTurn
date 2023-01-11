@@ -1,9 +1,9 @@
-package com.pokemonbattleturn;
+package prueba;
 
-import com.pokemonbattleturn.domain.player.Trainer;
-import com.pokemonbattleturn.domain.pokemon.pokemonClass.PokemonFactory;
-import com.pokemonbattleturn.front.TrainerDisplay;
-import com.pokemonbattleturn.gameLogic.Battle;
+import prueba.pokemonbattleturn.domain.player.Trainer;
+import prueba.pokemonbattleturn.domain.pokemon.pokemonClass.PokemonFactory;
+import prueba.pokemonbattleturn.front.TrainerDisplay;
+import prueba.pokemonbattleturn.gameLogic.Battle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

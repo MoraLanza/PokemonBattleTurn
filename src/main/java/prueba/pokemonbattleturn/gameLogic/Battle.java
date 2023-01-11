@@ -1,8 +1,8 @@
-package com.pokemonbattleturn.gameLogic;
+package prueba.pokemonbattleturn.gameLogic;
 
-import com.pokemonbattleturn.domain.player.Trainer;
-import com.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
-import com.pokemonbattleturn.front.BattleDisplay;
+import prueba.pokemonbattleturn.domain.player.Trainer;
+import prueba.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
+import prueba.pokemonbattleturn.front.BattleDisplay;
 
 import java.util.Random;
 

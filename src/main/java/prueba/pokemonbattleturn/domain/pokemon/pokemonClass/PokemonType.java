@@ -1,4 +1,4 @@
-package com.pokemonbattleturn.domain.pokemon.pokemonClass;
+package prueba.pokemonbattleturn.domain.pokemon.pokemonClass;
 
 public enum PokemonType {
     ELECTRIC,

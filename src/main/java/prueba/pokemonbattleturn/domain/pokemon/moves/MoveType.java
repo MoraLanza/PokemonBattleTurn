@@ -1,4 +1,4 @@
-package com.pokemonbattleturn.domain.pokemon.moves;
+package prueba.pokemonbattleturn.domain.pokemon.moves;
 
 public enum MoveType {
     ELECTRIC,

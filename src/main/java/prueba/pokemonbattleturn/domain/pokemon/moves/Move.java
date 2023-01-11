@@ -1,6 +1,6 @@
-package com.pokemonbattleturn.domain.pokemon.moves;
+package prueba.pokemonbattleturn.domain.pokemon.moves;
 
-import com.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
+import prueba.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
 
 import java.util.Random;
 

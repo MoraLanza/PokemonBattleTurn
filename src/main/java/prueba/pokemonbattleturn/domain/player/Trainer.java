@@ -1,6 +1,6 @@
-package com.pokemonbattleturn.domain.player;
+package prueba.pokemonbattleturn.domain.player;
 
-import com.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
+import prueba.pokemonbattleturn.domain.pokemon.pokemonClass.Pokemon;
 import lombok.Getter;
 
 @Getter
